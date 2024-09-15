@@ -7,5 +7,7 @@
 
 basic.clearScreen()
 basic.pause(1000)
-
-basic.showString((40 + 2 ).toString())
+basic.showString('Area =')
+basic.showString((3 * 5 ).toString())
+basic.showString('Perimeter =')
+basic.showString((2 * (3 + 5)).toString())
